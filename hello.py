@@ -1,8 +1,5 @@
 __author__ = 'kat4ma'
 
-def greeting(msg):
-
-	print(msg)
-
+from helper import greeting
 
 greeting("Hello")
